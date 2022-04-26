@@ -1,0 +1,5 @@
+package com.xfrenzy47x.app.enums;
+
+public enum State {
+    CHOOSE_ACTION, PURCHASING, PROMPT_FOR_WATER, PROMPT_FOR_MILK, PROMPT_FOR_BEANS, PROMPT_FOR_CUPS
+}
