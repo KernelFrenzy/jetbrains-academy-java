@@ -6,6 +6,7 @@ After finishing this project, you'll get to know a lot about planning and develo
 ## About
 Everybody remembers this paper-and-pencil game from childhood: Tic-Tac-Toe, also known as Noughts and crosses or Xs and Os. A single mistake usually costs you the game, but thankfully it is simple enough that most players discover the best strategy quickly. Let’s program Tic-Tac-Toe and get playing!
 
+## What you'll do and what you'll learn:
 ### Stage 1
 To start things off, the program needs to be able to print any state of the field. You’ll write a serious multi-line program using a lot of prints.
 ### Stage 2
